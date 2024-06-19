@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Curve{
+    background-color: red;
+  color: #ffff;
+  text-align: center;
+
+}
+
+.Curve h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 6rem;
+}
+.Curve p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+}
+.Curve svg{
+    display: block;
+}
